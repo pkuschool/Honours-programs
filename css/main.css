@@ -1820,7 +1820,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fb5334;
+  background: #0f3287;
 }
 .feed-link,
 .chat {
@@ -2778,4 +2778,8 @@ blockquote.question {
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
   margin-bottom: 20px;
+}
+.posts-expand .post-title {
+  font-size: 26px;
+  font-weight: 700;
 }
