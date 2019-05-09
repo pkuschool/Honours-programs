@@ -1684,16 +1684,6 @@ pre .javascript .function {
 .rtl.post-title {
   font-family: UKIJ Ekran;
 }
-.reading-progress-bar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 9999;
-  display: block;
-  width: 0;
-  height: 2px;
-  background: #37c6c0;
-}
 .my_post_copyright {
   width: 85%;
   max-width: 45em;
@@ -1864,7 +1854,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff8a50;
+  background: #799874;
 }
 .feed-link,
 .chat {
@@ -2804,6 +2794,12 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+.container .main-inner {
+  margin-top: 50px;
+}
+.posts-expand .post {
+  margin-top: 10px;
 }
 .post-body p a {
   color: #0593d3;
