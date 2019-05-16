@@ -1854,7 +1854,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #442aad;
+  background: #6a1741;
 }
 .feed-link,
 .chat {
@@ -2911,6 +2911,10 @@ h2.about-title {
   .container .main-inner {
     width: auto;
   }
+  .posts-expand {
+    margin: 0px;
+    padding-top: 5px;
+  }
   .main-inner {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -2940,7 +2944,7 @@ h2.about-title {
   }
   .posts-expand {
     margin: 0px;
-    padding-top: 0px;
+    padding-top: 5px;
   }
   .posts-expand .post-title {
     font-size: 22px;
