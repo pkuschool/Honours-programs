@@ -1854,7 +1854,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6a1741;
+  background: #ff66b0;
 }
 .feed-link,
 .chat {
@@ -2801,19 +2801,6 @@ hr {
   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
   background-color: #fff;
 }
-@media (max-width: 1023px) {
-  .comments {
-    margin: 40px 0px 40px 0px !important;
-  }
-}
-@media (max-width: 767px) {
-  .comments {
-    margin: 40px 0px 40px 0px !important;
-  }
-}
-.comments {
-  margin: 80px 0px 40px 0px;
-}
 .header-inner {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2925,6 +2912,9 @@ h2.about-title {
     background: #f5f5f5;
     color: #666;
   }
+  .comments {
+    margin: 10px 15px 10px 10px !important;
+  }
   .posts-expand .post {
     margin-top: 20px;
     padding-bottom: 20px !important;
@@ -2975,7 +2965,7 @@ h2.about-title {
     margin-top: 10px;
   }
   .comments {
-    margin: 10px 0px 10px 0px !important;
+    margin: 10px 15px 10px 10px !important;
   }
   .footer {
     box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
