@@ -1854,7 +1854,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #12164a;
+  background: #811a36;
 }
 .feed-link,
 .chat {
@@ -2794,50 +2794,6 @@ hr {
     width: auto;
     text-align: center;
   }
-}
-.post {
-  margin-bottom: 50px;
-  padding: 36px 36px 36px 36px;
-  background-color: #fff;
-}
-.pagination {
-  margin: 0px 0 0;
-  text-align: left;
-}
-.main-inner {
-  margin-top: 30px;
-}
-.footer {
-  margin-top: 20px;
-  padding: 10px 0;
-  background: #f5f5f5;
-  color: #666;
-}
-.container .main-inner {
-  width: 850px;
-}
-.header-inner {
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
-.posts-expand {
-  padding-top: 0px;
-}
-.posts-expand .post-meta {
-  margin: 5px 0px 0px 0px;
-}
-.post-button {
-  margin-top: 0px;
-}
-.about-page {
-  margin: 20px 20px 60px 20px;
-  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
-  background-color: #fff;
-  padding: 106px 36px 36px 36px;
-}
-.posts-expand .post-body {
-  font-size: 16px;
-  margin: 20px;
 }
 ::selection {
   background-color: #fff159;
