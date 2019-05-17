@@ -1854,7 +1854,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3bb8ff;
+  background: #fff;
 }
 .feed-link,
 .chat {
@@ -2830,29 +2830,6 @@ hr {
 .post-button {
   margin-top: 0px;
 }
-.about-page {
-  margin: 20px 20px 60px 20px;
-  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
-  background-color: #fff;
-  padding: 106px 36px 36px 36px;
-}
-.page-archive .archive-page-counter {
-  color: #fff;
-}
-.page-archive .posts-collapse .archive-move-on {
-  top: 10px;
-  opacity: 1;
-  background-color: #fff;
-  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
-}
-.post-block.page {
-  margin-top: 40px;
-}
-.category-all-page {
-  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
-  background-color: #fff;
-  padding: 86px 36px 36px 36px;
-}
 @media (max-width: 767px) {
   .about-page {
     margin: 23px 20px 50px 20px;
@@ -2869,19 +2846,6 @@ h2.about-title {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   user-select: none;
-}
-.local-search-popup .search-icon,
-.local-search-popup .popup-btn-close {
-  color: #f79533;
-  margin-top: 7px;
-}
-.local-search-popup .local-search-input-wrapper input {
-  padding: 9px 0px;
-  height: 21px;
-  background-color: #fff;
-}
-.local-search-popup .popup-btn-close {
-  border-left: none;
 }
 ::selection {
   background-color: #fff159;
